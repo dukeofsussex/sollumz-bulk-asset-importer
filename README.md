@@ -1,0 +1,1 @@
+C:\"Program Files"\"Blender Foundation"\"Blender 3.5"\blender.exe -b -P import.py
