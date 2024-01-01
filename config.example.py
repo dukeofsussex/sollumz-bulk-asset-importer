@@ -78,7 +78,7 @@ IMPORT_DIRECTORY = ''
 
 # The directory containing the Sollumz addon (most likely Sollumz-main if downloaded as a zip from GitHub)
 # Edit > Preferences > Add-ons > Search for Sollumz > File: <path-to-addons-folder>/<SOLLUMZ_PACKAGE>/__init__.py
-SOLLUMZ_PACKAGE='Sollumz-main'
+SOLLUMZ_PACKAGE='Sollumz'
 
 # All assets not covered by the
 UNGROUPED = "_assets"
